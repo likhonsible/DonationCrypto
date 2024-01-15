@@ -14,6 +14,8 @@ Support our journey in the crypto world! Your donation fuels innovation and prog
 - **Pull Requests:** Help us grow!
 - **Wiki:** Learn more about our work.
 
-💌 Contact: [owner@likhonscripts.cloud](mailto:owner@likhonscripts.cloud) | [Telegram](https://t.me/likhonsible)
+💌 Contact: [owner@likhonscripts.cloud](mailto:owner@likhonscripts.cloud) 
+
+🤖 Telegram: [Telegram](https://t.me/likhonsible)
 
 ### Thank You for Your Support! 💖
